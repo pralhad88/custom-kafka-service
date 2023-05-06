@@ -32,7 +32,6 @@ import { data } from "./read-file.js";
     });
 
     console.log("Send.........");
-
     await producer.disconnect();
   } catch (err) {
     console.log(err);
