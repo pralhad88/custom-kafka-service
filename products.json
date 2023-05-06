@@ -1,0 +1,10 @@
+[
+  {
+    "key": "product1",
+    "value": {
+      "id": 1,
+      "name": "Pralhad Jadhav",
+      "age": 27
+    }
+  }
+]

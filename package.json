@@ -1,0 +1,16 @@
+{
+  "name": "custom-kafka-service",
+  "version": "1.0.0",
+  "description": "Kafka Publisher Service",
+  "type": "module",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pralhad Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "kafkajs": "^2.2.4"
+  }
+}
